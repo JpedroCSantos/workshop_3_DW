@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "workshop-3-dw"
+version = "0.1.0"
+description = "Projeto referente ao Workshop 3 de 2023 de Como construir um DW sem pagar muito"
+authors = ["Joao Pedro Santos <jpedro.csantos@hotmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
